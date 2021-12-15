@@ -1,6 +1,6 @@
 # Vue3 + Vite all in one
 
-Vue 3 + Typescript + Vite + Vue-Router + Vuex
+vue3 & vite template
 
 - Vue3
 - Typescript
